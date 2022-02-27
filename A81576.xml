@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The division of the county of Surrey into six classicall presbyteries. Together with the names of the ministers and others fit to be of that classis. Approved of by the committee appointed thereunto by both Houses of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81576</idno>
+            <idno type="STC">Wing D1740</idno>
+            <idno type="STC">Thomason E431_4</idno>
+            <idno type="STC">ESTC R206101</idno>
+            <idno type="EEBO-CITATION">99865286</idno>
+            <idno type="PROQUEST">99865286</idno>
+            <idno type="VID">117525</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81576)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117525)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E431[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The division of the county of Surrey into six classicall presbyteries. Together with the names of the ministers and others fit to be of that classis. Approved of by the committee appointed thereunto by both Houses of Parliament.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.M. for Christopher Meredith at the Signe of the Crane in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Nathaneel Bacon.</note>
+                  <note>Annotation on Thomason copy: "March 6th"; the 8 in the imprint date is crossed out and replaced with a 7.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>Presbyterianism --  Early works to 1800.</term>
+               <term>Surrey (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117525:1" rendition="simple:additions"/>
+            <p>THE DIVISION of the County of SURREY INTO SIX Claſſicall Presbyteries.</p>
+            <p>TOGETHER With the Names of the Miniſters and others fit to be of that Claſſis.</p>
+            <p>Approved of by the Committee appointed there<g ref="char:EOLhyphen"/>unto by both Houſes of PARLIAMENT.</p>
+            <p>
+               <hi>LONDON.</hi> Printed by <hi>A.M.</hi> for <hi>Chriſtopher Meredith</hi> at the Signe of the Crane in <hi>Pauls</hi> Church-yard 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117525:2"/>
+            <pb n="1" facs="tcp:117525:2"/>
+            <head>At the Committee of LORDS and COMMONS for the judging of Scandall, <hi>Febr.</hi> 16. 1647.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Committee then preſent; M. Serjeant <hi>Wild,</hi> Sir <hi>Walter Earle,</hi> Sir <hi>Thomas Wr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ath,</hi> Sir <hi>Iohn Bamfeild,</hi> M. Alderman <hi>Penning<g ref="char:EOLhyphen"/>ton,</hi> M. <hi>Tate,</hi> M. <hi>Iohn Boys,</hi> M <hi>Iohn Rolls.</hi> M. <hi>Purefoye,</hi> M. <hi>Nathaniell Hollowes,</hi> and M. <hi>Nathaniell Bacon.</hi>
+            </p>
+            <p>It was this day Ordered, that the County of <hi>Surrey,</hi> ſhall be divided into Six Claſſes, according to the Certificate of the Committee of the ſaid County.</p>
+            <p n="1">I. In the firſt Claſſis, the Towns of <hi>Farnham, Elſted, Seale, VVanborough, Farnham, Aſhe, Frimley, Pur<g ref="char:EOLhyphen"/>bright, VVindleſham, Shalford, Bramly, Haſcombe, Alfold, Dunfold, Hazilmore, Chiddingfold, Witley, Thurſ<g ref="char:EOLhyphen"/>ley,
+<pb n="2" facs="tcp:117525:3"/>Hambledon, Godalminge, Peperharrow, Putenham, Compton.</hi>
+            </p>
+            <p n="2">II. In the ſecond Claſſis, the Towns of <hi>Darking, Capell, Ockley, Abinger, VVotton, Sheere, Ewhurſt, Cranley, Albu<g ref="char:EOLhyphen"/>ry, Wonerſh, Marter the hill, Mickleham, Effingham, Great Bookham, Little Bookham, Fetcham, Leathered, Betchworth, Aſhtead, Headley, Newdigate.</hi>
+            </p>
+            <p n="3">III. In the third Claſſis, the Towns of <hi>Guilford, Erting<g ref="char:EOLhyphen"/>ton, Stoke, Merrow, Eaſt Clandon, VVeſt Clandon, Eaſt Horſley, VVest Horſley, Ockham, Send and Ripley, VVo<g ref="char:EOLhyphen"/>keing, Pirford, Horſell, VViſley, Byflett, Egham, Thorpe, Chertſey, Biſley, Chobham, VVorpliſdon.</hi>
+            </p>
+            <p n="4">IV. In the fourth Claſſis, the Towns of <hi>Kingſton, Cob<g ref="char:EOLhyphen"/>ham, Stokdawborne, Eſher, VValton upon Thames, VVay<g ref="char:EOLhyphen"/>bridge, East Moulſey, VVeſt Moulſey, Thameſditton, Longditton, Eveſham, Mauldon, Cheſington, Ewell, Peter<g ref="char:EOLhyphen"/>ſham, Richmond, Mortlack, Barnes, Putney, VVimbleton, Merton.</hi>
+            </p>
+            <p n="5">V. In the fifth Claſſis, the Towns of <hi>Croydon, VVandeſ<g ref="char:EOLhyphen"/>worth, Batterſea, Clapham, Camerwell, Streetham, Tooting, And<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngton, Bedington, Caſhalton, Chalden, Cowleſdown, Saunderſtead, VVoodmansterne Bansted, Mitcham, VVarlingham, Titſey, Farley, Chelſham, VVorlingham, Tatesfeild, Catheram, Cheame, Sutton, Mord<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n.</hi>
+            </p>
+            <p n="6">
+               <pb n="3" facs="tcp:117525:3"/> VI. In the ſixt Claſſis, the Towns of <hi>Reigate, Lingfeild, Horne, Crowhurſt, Godſtone, Tandrige, Oxted, Bletching<g ref="char:EOLhyphen"/>ley, Lympesfeild, Horley, Buckland, Gatton, Charlewood, Leigh, Nutfeild, Mestham, Chipſtedouns Kingſwood, VValton ſuper mont<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m Burſtow.</hi>
+            </p>
+            <p n="1">I. <hi>Godalming</hi> Claſſis. The Names of the Miniſters for the firſt Claſſis; M. <hi>VVood</hi> of <hi>Pepperharrow,</hi> M. <hi>Stoughton</hi> of <hi>Haſcombe,</hi> M. <hi>Duncumb</hi> of <hi>Farnham,</hi> M. <hi>Diggle</hi> of <hi>Chiddingfould,</hi> M. <hi>Fortree</hi> of <hi>Godalminge,</hi> M. <hi>Iohnſon</hi> of <hi>VVonerſh.</hi>
+            </p>
+            <p>Others: Sir <hi>VVilliam Elyott</hi> Knight, M. <hi>Arthur Squibb,</hi> M. <hi>Duncombe</hi> of <hi>Shalford,</hi> Doctor <hi>Rand</hi> of <hi>Go<g ref="char:EOLhyphen"/>dalming,</hi> Capt. <hi>VVeſtbrook</hi> of <hi>Godalming,</hi> M. <hi>Smith</hi> of <hi>Turſly,</hi> M. <hi>Piggot</hi> of <hi>Farnham,</hi> M. <hi>Iervois Searle</hi> of the ſame, M. <hi>Iohn Baker</hi> of <hi>Pirbright,</hi> M. <hi>Nathaniell VVroath</hi> of <hi>Farnham,</hi> M. <hi>Lickford</hi> of <hi>Seal,</hi> M. <hi>VVaterfeild</hi> of <hi>Go<g ref="char:EOLhyphen"/>dalming.</hi>
+            </p>
+            <p n="2">II. <hi>Darking</hi> Claſſis. The names of the Miniſters for the ſecond Claſſis; M. <hi>Steere</hi> of <hi>Newdigate,</hi> M. <hi>Geery</hi> of <hi>Abinger,</hi> M. <hi>Co<g ref="char:EOLhyphen"/>zens</hi> of <hi>Darking,</hi> M. <hi>Fiſher</hi> of <hi>Fetcham,</hi> M. <hi>VVinge</hi> of <hi>Ewhurſt,</hi> M. <hi>Dennys</hi> of <hi>Capell.</hi>
+            </p>
+            <p>Others: Sir <hi>Ambroſe Browne</hi> Baronet, M. <hi>George Evelin</hi> of <hi>VVotton,</hi> Capt. <hi>Buttery</hi> of <hi>Darking,</hi> M. <hi>Leigh</hi> of <hi>Abinger,</hi> M. <hi>Payne</hi> of <hi>Darking,</hi> M <hi>Heather</hi> of the ſame, M. <hi>Goſdon</hi> of the ſame, M. <hi>Conſtable</hi> of <hi>Ockley,</hi> M. <hi>Iohn Lucas</hi> of <hi>Mickleham,</hi> M. <hi>Henry Lucas</hi> of the ſame, M. <hi>Budgen</hi> of <hi>Newdigate,</hi> M. <hi>Robert Merſh</hi> of <hi>Leathered,</hi> M. <hi>VValter</hi> of <hi>VVackleham,</hi>
+            </p>
+            <p n="3">
+               <pb n="4" facs="tcp:117525:4"/> III. <hi>Guildeford</hi> Claſſis. The names of the Miniſters for the third Claſſis; M. <hi>Raynar</hi> of <hi>Egham,</hi> M. <hi>Farrall</hi> of <hi>VVorpleſden,</hi> M. <hi>Cuf<g ref="char:EOLhyphen"/>fley</hi> of <hi>Guilford,</hi> M. <hi>Sympſon</hi> of <hi>Merow,</hi> M. <hi>Platt</hi> of <hi>Weſt Horſley,</hi> M. <hi>Hell</hi> of <hi>Stoake.</hi>
+            </p>
+            <p>Others: Lord <hi>Anger de Clandon,</hi> Sir <hi>Richard On<g ref="char:EOLhyphen"/>ſlow</hi> Knight, M. <hi>Nicholas Stoughton,</hi> M. <hi>Arthur Onſlow, M. Henry VVeston</hi> of <hi>Ockham, M. Evans</hi> of <hi>Stoake, M. Lloyde</hi> of <hi>VVoking, M. Purſe, M. Hill</hi> of <hi>Guildford, M. Budd</hi> of the ſame, <hi>M. How</hi> of the ſame, <hi>M. Cornwall</hi> of <hi>Merrow, M. VVithers</hi> of <hi>Stoake, M. Iohn Merton</hi> of <hi>VVorpleſden.</hi>
+            </p>
+            <p n="4">IV. <hi>Kingston</hi> Claſſis. The names of the Miniſters of the fourth Claſſis; Doctor <hi>Stannton</hi> of <hi>Kingſton, M. Byfeild</hi> of <hi>Longditton, M. Hartford</hi> of <hi>Thameſditton, M. More</hi> of <hi>Eaſt Moulſey, M. Dingley</hi> of <hi>Barnes, M. Houghton</hi> of <hi>Putney.</hi>
+            </p>
+            <p>Others: Sir <hi>Iohn Dingley,</hi> Sir <hi>Mathew Brand,</hi> Sir <hi>Robert Wood</hi> Knights, Collonell <hi>VVood, M. Iohn Good<g ref="char:EOLhyphen"/>win, M. Drake, M. Gonſon</hi> of <hi>Kingſton, M. Ironſide</hi> of <hi>Longditton,</hi> Major <hi>Tates of Kingſton, M. Duke</hi> of <hi>Rich<g ref="char:EOLhyphen"/>mond, M. Childe</hi> of <hi>Kingſton, M. Briſe</hi> of <hi>Eaſt Moulſey, M. Dancer</hi> of <hi>Putney, M. VVicks</hi> of <hi>Kingſton, M. Hawkins</hi> of <hi>Ewell.</hi>
+            </p>
+            <p n="5">V. <hi>Croydon</hi> Claſſis. The Names of the Miniſters of the fifth Claſſis; Doctor <hi>Temple</hi> of <hi>Batterſea, M. Arthur</hi> of <hi>Clapham, M. Maynard</hi> of <hi>Camerwell, M. Roberts</hi> of <hi>Cowleſdon, M. Booth</hi> of <hi>Mordon.</hi>
+            </p>
+            <p>Others: <hi>M. Tonſtall</hi> of <hi>Croydon, M. Ferrard</hi> of <hi>Mit<g ref="char:EOLhyphen"/>cham, M. Iohnſon</hi> of <hi>Camerwell, M. Sherly</hi> of <hi>Clapham,</hi>
+               <pb n="5" facs="tcp:117525:4"/>M. <hi>Robert Mead of Wandſeworth,</hi> M. <hi>Edward Mead</hi> of <hi>Clapham, M. Heyborn</hi> of <hi>Batterſea, M. Vivion</hi> of <hi>Clapham, M. Webſter</hi> of <hi>Camerwell, M. Hunt</hi> of <hi>Batterſea.</hi>
+            </p>
+            <p n="6">VI. <hi>Reygate</hi> Claſſis. The names of the Miniſters for the ſixth Claſſis; <hi>M. Bedford</hi> of <hi>Nutfeild,</hi> M. <hi>Mercer</hi> of <hi>Chipſtead,</hi> M. <hi>Lee</hi> of <hi>Charlwood,</hi> M. <hi>Pope</hi> Jun. of <hi>Walton,</hi> M. <hi>Parr</hi> of <hi>Rey<g ref="char:EOLhyphen"/>gate,</hi> M. <hi>William Hampton</hi> of <hi>Bletchingley.</hi>
+            </p>
+            <p>Others: Sir <hi>Iohn Evelin</hi> Knight, M. <hi>Roger Iames</hi> of <hi>Reigate,</hi> M. <hi>Holman</hi> of <hi>Bletchingley,</hi> M. <hi>Byſse</hi> Jun. M. <hi>Robert Geodwin,</hi> M. <hi>Iohn Turner</hi> of <hi>Ham,</hi> M. <hi>Wil<g ref="char:EOLhyphen"/>liam Ofeild</hi> of <hi>Gatton,</hi> M. <hi>Iohn Parker</hi> of <hi>Reigate,</hi> M. <hi>Bea<g ref="char:EOLhyphen"/>champe</hi> of the ſame, M. <hi>Iames Iordan</hi> of <hi>Charlewood,</hi> Capt. <hi>Rithe</hi> of <hi>Chipſtead,</hi> M. <hi>Evans</hi> of <hi>Bletchingley,</hi> M. <hi>Ieremiah Iohnſon,</hi> M. <hi>Anthony Hungerford.</hi>
+            </p>
+            <p>
+               <list>
+                  <item>
+                     <hi>Thomas Sands</hi> Eſquire, and M. <hi>Millet</hi> of <hi>Ockly,</hi> are ad<g ref="char:EOLhyphen"/>ded to <hi>Darking</hi> Claſſis.</item>
+                  <item>
+                     <hi>Edmund Iordan</hi> Eſquire added to <hi>Reygate</hi> Claſſis.</item>
+                  <item>Sir <hi>Richard Betenſon</hi> Knight, and <hi>Benjamin Weſton</hi> Eſquire, are added to <hi>Kingſton</hi> Claſſis.</item>
+                  <item>Sir <hi>Poining Moor</hi> Barronet, added to <hi>Godalming</hi> Claſſis.</item>
+                  <item>Sir <hi>William Brerton</hi> Baronet, added to <hi>Croydon</hi> Claſſis.</item>
+               </list>
+            </p>
+            <div type="part">
+               <p>ORdered that the Miniſters and others formerly mentioned, together with thoſe added, ſhall be the Claſſes for Triers for the County of <hi>Surrey,</hi> ac<g ref="char:EOLhyphen"/>cording to their ſeverall diviſions reſpectively.</p>
+            </div>
+            <closer>
+               <signed>Signed by command of the Committee, <hi>Nathaneel Bacon.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
